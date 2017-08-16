@@ -1,0 +1,7 @@
+facefrontalization/
+img/
+lfw/
+lfw-deepfunneled
+*.tgz
+*-checkpoint.ipynb
+*.pyc
